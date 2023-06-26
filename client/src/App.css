@@ -44,3 +44,18 @@
 #img {
   text-align: center;
 }
+
+.button-row > button {
+  margin-right: 15px;
+}
+
+.login-input {
+  width: 400px;
+  background-color: white;
+  color: black;
+  padding: 5px;
+}
+
+.login-container {
+  padding-top: 50px; /* Adjust the value as needed */
+}
